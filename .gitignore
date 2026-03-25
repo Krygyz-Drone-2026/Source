@@ -1,0 +1,13 @@
+# IDE and Tool settings
+.claude/
+.vscode/
+.idea/
+
+# Specific Documentation
+AGENTs.md
+CLAUDE.md
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
