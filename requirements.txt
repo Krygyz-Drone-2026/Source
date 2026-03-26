@@ -1,0 +1,24 @@
+# DJI Tello Drone SDK
+djitellopy
+
+# Computer Vision
+opencv-python
+numpy
+
+# Computer Vision Utilities (FaceDetection, FaceMesh, PID, LivePlot)
+cvzone
+
+# Object Detection (YOLOv8)
+ultralytics
+
+# Hand Gesture Recognition
+mediapipe
+
+# Image Processing (Lab-11-GUI)
+Pillow
+
+# PyTorch (Lab-42-Torch)
+torch
+
+# YouTube Stream (Lab-16-01)
+yt-dlp
