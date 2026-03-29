@@ -23,7 +23,7 @@ while True:
     cv2.imshow("drone", img)
 
     # Wait 1ms for key input (returns -1 if no key pressed)
-    key = cv2.waitKey(1) & 0xff
+    key = cv2.waitKey(5) & 0xff
 
     if key == 27:  # ESC — exit loop and land
         break
