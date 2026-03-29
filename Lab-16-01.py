@@ -2,9 +2,7 @@ import cv2
 import yt_dlp
 
 # YouTube video URL
-# YOUTUBE_URL = 'https://www.youtube.com/watch?v=FVYxxHn8R-k'
-YOUTUBE_URL = 'https://youtu.be/pn84aprnqkA?si=efpw8eTsnLikQwBQ'
-
+YOUTUBE_URL ='https://youtu.be/AI0p4T1-f88?si=nE7EVq9w9pGcDpIB'
 
 # Extract the direct stream URL without downloading the file
 print("Fetching stream URL...")
