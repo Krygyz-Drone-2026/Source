@@ -15,7 +15,7 @@ cvzone
 ultralytics
 
 # Hand Gesture Recognition
-mediapipe
+mediapipe==0.10.9
 
 # Image Processing (Lab-11-GUI)
 Pillow
