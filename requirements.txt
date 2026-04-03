@@ -2,26 +2,26 @@
 # pip install -r requirements.txt
 
 # DJI Tello Drone SDK
-djitellopy
+djitellopy==2.5.0
 
 # Computer Vision
-opencv-python
-numpy
+opencv-python==4.13.0.92
+numpy==2.4.3
 
 # Computer Vision Utilities (FaceDetection, FaceMesh, PID, LivePlot)
-cvzone
+cvzone==1.6.1
 
 # Object Detection (YOLOv8)
-ultralytics
+ultralytics==8.4.24
 
 # Hand Gesture Recognition
 mediapipe==0.10.9
 
 # Image Processing (Lab-11-GUI)
-Pillow
+Pillow==12.1.1
 
 # PyTorch (Lab-42-Torch)
-torch
+torch==2.10.0
 
 # YouTube Stream (Lab-16-01)
-yt-dlp
+yt-dlp==2026.3.17
